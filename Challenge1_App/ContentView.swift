@@ -16,7 +16,7 @@ struct ContentView: View {
     @State private var buttonColor = (Color.green.opacity(0.8))
 
     
-    let interests: [String] = ["게임", "영화", "독서", "여행", "운동", "음악"]
+    let interests: [String] = ["마인크래프트", "영화", "독서", "여행", "운동", "음악"]
     let locations: [String] = ["기숙사","C5아카데미","도서관","카페","카페테리아","영화관"]
     //let locations : [String] = ["기숙사","C5아카데미","도서관","카페","편의점","영화관"]
     
