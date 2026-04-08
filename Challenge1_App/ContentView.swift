@@ -17,7 +17,7 @@ struct ContentView: View {
 
     
     let interests: [String] = ["게임", "영화", "독서", "여행", "운동", "음악"]
-    let locations: [String] = ["기숙사","C5아카데미","도서관","카페","편의점","영화관"]
+    let locations: [String] = ["기숙사","C5아카데미","도서관","카페","카페테리아","영화관"]
     //let locations : [String] = ["기숙사","C5아카데미","도서관","카페","편의점","영화관"]
     
     @State var friends: [Friend] = [
